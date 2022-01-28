@@ -1,4 +1,4 @@
-From Tshephang Mampa to Everyone 08:41 PM
+
 # Math Magicians
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
