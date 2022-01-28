@@ -1,0 +1,11 @@
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\bin\Debug\DataFeatures.exe.config
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\bin\Debug\DataFeatures.exe
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\bin\Debug\DataFeatures.pdb
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.csprojAssemblyReference.cache
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.Form1.resources
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.Properties.Resources.resources
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.csproj.GenerateResource.cache
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.exe
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.pdb
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.ucCalculate.resources
+C:\Users\27764\source\repos\DataFeatures\DataFeatures\obj\Debug\DataFeatures.ucRead.resources
